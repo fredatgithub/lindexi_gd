@@ -1,3 +1,2 @@
-# 测试代码仓
-
-用于放博客用到的代码，大量的代码都是测试代码，请不要直接复制里面代码到自己项目
+D茅p么t de code de test
+Utilis茅 pour stocker le code utilis茅 dans les blogs, la plupart de ces codes sont des codes de test. Veuillez ne pas copier directement le code dans votre propre projet.
